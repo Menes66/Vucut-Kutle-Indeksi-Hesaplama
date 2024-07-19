@@ -1,0 +1,1 @@
+# Vucut-Kutle-Indeksi-Hesaplama
